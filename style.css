@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #7395A3;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    font-style:italic;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    background-color:#7395A3;
+    color: #141313;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+/* Add underline styles for section headings */
+.section-heading {
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-style: italic;
+}
